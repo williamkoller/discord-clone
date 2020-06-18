@@ -13,7 +13,7 @@ UI Clone - Discord
   </a>
 
 <a href="https://www.linkedin.com/in/williamkoller/">
-<img alt="Made by William Koller" src="https://img.shields.io/badge/made%20by-William-Koller?color=%237159c1&logo=mit">
+<img alt="Made by William Koller" src="https://img.shields.io/badge/made%20by-William Koller-%237159c1">
 </a>
 
 </p>
