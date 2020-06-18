@@ -9,11 +9,11 @@ UI Clone - Discord
     <img src="https://img.shields.io/github/contributors/rocketseat/youtube-clone-discord?color=%237159c1&logoColor=%237159c1&style=flat" alt="Contributors">
   </a>
   <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/github/license/rocketseat/youtube-clone-discord?color=%237159c1&logo=mit" alt="License">
+    <img src="https://img.shields.io/github/license/williamkoller/discord-clone?color=%237159c1&logo=mit" alt="License">
   </a>
 
 <a href="https://www.linkedin.com/in/williamkoller/">
-<img alt="Made by William Koller" src="https://img.shields.io/badge/made%20by-William Koller-%2304D361">
+<img alt="Made by William Koller" src="https://img.shields.io/badge/made%20by-William-Koller?color=%237159c1&logo=mit">
 </a>
 
 </p>
