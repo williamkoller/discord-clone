@@ -20,13 +20,10 @@ UI Clone - Discord
 
 <hr>
 
-### participants
+## Participants
 
-| name | email |
-| ---- | ----- |
-
-
-| [William Koller](https://www.linkedin.com/in/williamkoller/) | wkoller25@gmail.com | |
+| [William Koller](https://www.linkedin.com/in/williamkoller/) |
+wkoller25@gmail.com
 
 ## Developers/Contributors :octocat
 
@@ -34,7 +31,7 @@ UI Clone - Discord
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 
-# :rocket: Techs
+## :rocket: Techs
 
 This project was developed with the following technologies:
 
