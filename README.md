@@ -22,7 +22,7 @@ UI Clone - Discord
 
 ## Participants
 
-| [William Koller](https://www.linkedin.com/in/williamkoller/) |
+[William Koller](https://www.linkedin.com/in/williamkoller/) |
 wkoller25@gmail.com
 
 ## Developers/Contributors :octocat
