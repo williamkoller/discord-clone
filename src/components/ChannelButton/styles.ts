@@ -35,6 +35,11 @@ export const Container = styled.div`
     }
   }
 
+  &:hover {
+    > div svg:is {
+      display: none;
+    }
+  }
 `
 
 export const HashtagIcon = styled(Hashtag)`
@@ -55,7 +60,6 @@ export const InviteIcon = styled(PersonAdd)`
 
   &:hover {
     color: var(--white);
-    
   }
 `
 
